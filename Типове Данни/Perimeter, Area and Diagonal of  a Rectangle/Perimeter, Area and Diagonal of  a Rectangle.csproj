@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Perimeter__Area_and_Diagonal_of__a_Rectangle</RootNamespace>
+  </PropertyGroup>
+
+</Project>
