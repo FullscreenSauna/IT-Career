@@ -35,19 +35,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catch the Killer", "Catch t
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Judge the Killer", "Judge the Killer\Judge the Killer.csproj", "{7FA207CC-52BF-4CAF-B6FA-1225BDBE6B90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{32F69C22-0FC2-46DC-B0FB-D3CF1D0133CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{32F69C22-0FC2-46DC-B0FB-D3CF1D0133CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create Words", "Create Words\Create Words.csproj", "{C36D24A1-CBF4-424A-BBD5-E467CD7BCCA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create Words", "Create Words\Create Words.csproj", "{C36D24A1-CBF4-424A-BBD5-E467CD7BCCA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Chars", "Sum of Chars\Sum of Chars.csproj", "{EF8B046D-AE49-445B-AAFD-27C15374F69B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Chars", "Sum of Chars\Sum of Chars.csproj", "{EF8B046D-AE49-445B-AAFD-27C15374F69B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combining Strings", "Combining Strings\Combining Strings.csproj", "{BFF77BC5-2A3C-4A00-B796-5AFD71B83913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Combining Strings", "Combining Strings\Combining Strings.csproj", "{BFF77BC5-2A3C-4A00-B796-5AFD71B83913}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beers", "Beers\Beers.csproj", "{9B2D1991-BA91-4D0C-B6BC-4AEB49454092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beers", "Beers\Beers.csproj", "{9B2D1991-BA91-4D0C-B6BC-4AEB49454092}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decripting a message", "Decripting a message\Decripting a message.csproj", "{4723B7C0-6B34-436C-9631-2BE4E947003B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decripting a message", "Decripting a message\Decripting a message.csproj", "{4723B7C0-6B34-436C-9631-2BE4E947003B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boat Race", "Boat Race\Boat Race.csproj", "{72059662-44EA-480E-B71E-2BBDA0CD34D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boat Race", "Boat Race\Boat Race.csproj", "{72059662-44EA-480E-B71E-2BBDA0CD34D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centuries to Nanoseconds", "Centuries to Nanoseconds\Centuries to Nanoseconds.csproj", "{D5B0A70D-7A96-47D3-AB74-1385A767E947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel or Digit", "Vowel or Digit\Vowel or Digit.csproj", "{36686658-81E9-41EB-8FD5-F47358F8BDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparing FP Numbers", "Comparing FP Numbers\Comparing FP Numbers.csproj", "{C6189CDF-5479-490C-A235-AD536461514D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII symbols", "ASCII symbols\ASCII symbols.csproj", "{C0D5662A-9CF3-46D8-B9C6-C19B55A96943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitting an Integer", "Fitting an Integer\Fitting an Integer.csproj", "{22F09916-1E43-4CE5-9091-396A5CF8EEB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +157,26 @@ Global
 		{72059662-44EA-480E-B71E-2BBDA0CD34D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72059662-44EA-480E-B71E-2BBDA0CD34D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72059662-44EA-480E-B71E-2BBDA0CD34D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B0A70D-7A96-47D3-AB74-1385A767E947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B0A70D-7A96-47D3-AB74-1385A767E947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B0A70D-7A96-47D3-AB74-1385A767E947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B0A70D-7A96-47D3-AB74-1385A767E947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36686658-81E9-41EB-8FD5-F47358F8BDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36686658-81E9-41EB-8FD5-F47358F8BDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36686658-81E9-41EB-8FD5-F47358F8BDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36686658-81E9-41EB-8FD5-F47358F8BDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6189CDF-5479-490C-A235-AD536461514D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6189CDF-5479-490C-A235-AD536461514D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6189CDF-5479-490C-A235-AD536461514D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6189CDF-5479-490C-A235-AD536461514D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D5662A-9CF3-46D8-B9C6-C19B55A96943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D5662A-9CF3-46D8-B9C6-C19B55A96943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D5662A-9CF3-46D8-B9C6-C19B55A96943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D5662A-9CF3-46D8-B9C6-C19B55A96943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F09916-1E43-4CE5-9091-396A5CF8EEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F09916-1E43-4CE5-9091-396A5CF8EEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F09916-1E43-4CE5-9091-396A5CF8EEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F09916-1E43-4CE5-9091-396A5CF8EEB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
