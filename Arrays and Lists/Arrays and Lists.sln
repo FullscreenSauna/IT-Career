@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List of even numbers", "Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List max and min", "List max and min\List max and min.csproj", "{54D5C1A0-856D-49F1-98B0-857ACF8296E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List bomb detonation", "List bomb detonation\List bomb detonation.csproj", "{5C681511-01D7-40F5-8A59-B621E735BE26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{54D5C1A0-856D-49F1-98B0-857ACF8296E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54D5C1A0-856D-49F1-98B0-857ACF8296E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54D5C1A0-856D-49F1-98B0-857ACF8296E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C681511-01D7-40F5-8A59-B621E735BE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C681511-01D7-40F5-8A59-B621E735BE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C681511-01D7-40F5-8A59-B621E735BE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C681511-01D7-40F5-8A59-B621E735BE26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
