@@ -17,7 +17,7 @@ namespace Array_most_frequent_ellement
                 .ToArray();
 
             int maxCounter = 0;
-            int commonNumber = 0;
+            int mostCommonNumber = 0;
 
             for (int i = 0; i < input.Length; i++)
             {
@@ -33,12 +33,16 @@ namespace Array_most_frequent_ellement
 
                 if(currentCounter > maxCounter)
                 {
-                    commonNumber = input[i];
+                    mostCommonNumber = input[i];
                     maxCounter = currentCounter;
                 }
             }
 
-            Console.WriteLine(commonNumber);
+            for (int i = 0; i < maxCounter; i++)
+            {
+                Console.Write(mostCommonNumber + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
