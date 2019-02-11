@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove negative numbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List merge", "List merge\List merge.csproj", "{BC826ABE-34F3-4A62-9BA2-D575482BA926}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square roots", "Square roots\Square roots.csproj", "{C0CDB909-1234-4876-A901-F10C0AF8DC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of all numbers", "Count of all numbers\Count of all numbers.csproj", "{106FECA7-36D3-4235-B847-50EAE2AD37B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{BC826ABE-34F3-4A62-9BA2-D575482BA926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC826ABE-34F3-4A62-9BA2-D575482BA926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC826ABE-34F3-4A62-9BA2-D575482BA926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CDB909-1234-4876-A901-F10C0AF8DC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CDB909-1234-4876-A901-F10C0AF8DC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CDB909-1234-4876-A901-F10C0AF8DC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CDB909-1234-4876-A901-F10C0AF8DC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
