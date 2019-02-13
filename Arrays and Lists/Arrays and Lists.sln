@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square roots", "Square root
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of all numbers", "Count of all numbers\Count of all numbers.csproj", "{106FECA7-36D3-4235-B847-50EAE2AD37B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse", "Warehouse\Warehouse.csproj", "{AA1666B0-CE80-4AC3-88BA-B18A02684E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renewed warehouse", "Renewed warehouse\Renewed warehouse.csproj", "{C2733F1E-F7B7-4AD9-911B-99E502359C82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{106FECA7-36D3-4235-B847-50EAE2AD37B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1666B0-CE80-4AC3-88BA-B18A02684E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1666B0-CE80-4AC3-88BA-B18A02684E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1666B0-CE80-4AC3-88BA-B18A02684E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1666B0-CE80-4AC3-88BA-B18A02684E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2733F1E-F7B7-4AD9-911B-99E502359C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2733F1E-F7B7-4AD9-911B-99E502359C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2733F1E-F7B7-4AD9-911B-99E502359C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2733F1E-F7B7-4AD9-911B-99E502359C82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
