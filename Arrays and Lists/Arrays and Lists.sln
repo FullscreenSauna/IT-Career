@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heist", "Heist\Heist.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump around", "Jump around\Jump around.csproj", "{08C7E13E-8EC9-425D-969E-255987110F72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of equal sequential numbers", "Sum of equal sequential numbers\Sum of equal sequential numbers.csproj", "{578D001D-2629-476B-98CA-0C34B5963F10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{08C7E13E-8EC9-425D-969E-255987110F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C7E13E-8EC9-425D-969E-255987110F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C7E13E-8EC9-425D-969E-255987110F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578D001D-2629-476B-98CA-0C34B5963F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578D001D-2629-476B-98CA-0C34B5963F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578D001D-2629-476B-98CA-0C34B5963F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578D001D-2629-476B-98CA-0C34B5963F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
