@@ -22,9 +22,9 @@ namespace Array_rotate_and_sum
             {
                 int lastNumber = numbers[numbers.Length - 1];
 
-                for (int currentNumber = numbers.Length -1; currentNumber > 0; currentNumber--)
+                for (int j = numbers.Length - 1; j > 0; j--)
                 {
-                    numbers[currentNumber] = numbers[currentNumber - 1];
+                    numbers[j] = numbers[j - 1];
                 }
 
                 numbers[0] = lastNumber;
