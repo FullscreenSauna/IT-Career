@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication of character
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{144CF5B7-75BF-4F35-BF56-87EA18A56760}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magical words", "Magical words\Magical words.csproj", "{D6B61FD2-4968-4E1C-AA16-11B733E5CE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of big numbers", "Sum of big numbers\Sum of big numbers.csproj", "{459408FA-635A-4B39-A8FF-44623E069C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{144CF5B7-75BF-4F35-BF56-87EA18A56760}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144CF5B7-75BF-4F35-BF56-87EA18A56760}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144CF5B7-75BF-4F35-BF56-87EA18A56760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B61FD2-4968-4E1C-AA16-11B733E5CE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B61FD2-4968-4E1C-AA16-11B733E5CE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B61FD2-4968-4E1C-AA16-11B733E5CE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B61FD2-4968-4E1C-AA16-11B733E5CE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459408FA-635A-4B39-A8FF-44623E069C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459408FA-635A-4B39-A8FF-44623E069C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459408FA-635A-4B39-A8FF-44623E069C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459408FA-635A-4B39-A8FF-44623E069C54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
