@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average for each row", "Ave
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min value of each rew", "Min value of each rew\Min value of each rew.csproj", "{0FA195A6-DF01-4B4B-A736-03B6A8DEEA20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery ticket", "Lottery ticket\Lottery ticket.csproj", "{203063D1-753C-457F-AA38-92A01945A31A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0FA195A6-DF01-4B4B-A736-03B6A8DEEA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FA195A6-DF01-4B4B-A736-03B6A8DEEA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FA195A6-DF01-4B4B-A736-03B6A8DEEA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203063D1-753C-457F-AA38-92A01945A31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203063D1-753C-457F-AA38-92A01945A31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203063D1-753C-457F-AA38-92A01945A31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203063D1-753C-457F-AA38-92A01945A31A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
