@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mining exercise", "Mining e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket\Supermarket.csproj", "{24566DC4-B85D-4DA9-BCF6-26B3170DCA97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of floating point numbers", "Number of floating point numbers\Number of floating point numbers.csproj", "{5CBDAFA2-AF58-4896-8375-44DD205B6ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Improved phonebook", "Improved phonebook\Improved phonebook.csproj", "{4586F2E7-E463-4982-85A9-82E81B703A72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{24566DC4-B85D-4DA9-BCF6-26B3170DCA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24566DC4-B85D-4DA9-BCF6-26B3170DCA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24566DC4-B85D-4DA9-BCF6-26B3170DCA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBDAFA2-AF58-4896-8375-44DD205B6ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBDAFA2-AF58-4896-8375-44DD205B6ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBDAFA2-AF58-4896-8375-44DD205B6ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBDAFA2-AF58-4896-8375-44DD205B6ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4586F2E7-E463-4982-85A9-82E81B703A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4586F2E7-E463-4982-85A9-82E81B703A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4586F2E7-E463-4982-85A9-82E81B703A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4586F2E7-E463-4982-85A9-82E81B703A72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
