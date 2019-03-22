@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd numbers filter", "Odd n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Immune system", "Immune system\Immune system.csproj", "{72AD8BCC-7573-4DF7-961D-39624356737C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-mail assignment", "E-mail assignment\E-mail assignment.csproj", "{C2BAE71C-894D-4924-A346-F57BC4C31EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good hand", "Good hand\Good hand.csproj", "{92377D89-A56D-4470-83C8-63C269EE4B6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{72AD8BCC-7573-4DF7-961D-39624356737C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72AD8BCC-7573-4DF7-961D-39624356737C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72AD8BCC-7573-4DF7-961D-39624356737C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BAE71C-894D-4924-A346-F57BC4C31EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BAE71C-894D-4924-A346-F57BC4C31EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BAE71C-894D-4924-A346-F57BC4C31EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BAE71C-894D-4924-A346-F57BC4C31EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92377D89-A56D-4470-83C8-63C269EE4B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92377D89-A56D-4470-83C8-63C269EE4B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92377D89-A56D-4470-83C8-63C269EE4B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92377D89-A56D-4470-83C8-63C269EE4B6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
