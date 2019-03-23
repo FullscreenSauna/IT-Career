@@ -31,7 +31,6 @@ namespace Exam2_Anonymous_Downsite
 
             Console.WriteLine($"Total Loss: {totalLoss:f20}");
             Console.WriteLine($"Security Token: {Math.Pow(securityKey,numberOfSites)}");
-
         }
     }
 }

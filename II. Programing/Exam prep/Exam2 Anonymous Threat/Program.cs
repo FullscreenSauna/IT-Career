@@ -84,15 +84,20 @@ namespace Exam2_Anonymous_Threat
 
             if (startIndex < sequence.Count - 1)
             {
-                if (endIndex > sequence.Count - 1)
+                if (startIndex < 0)
                 {
-                    endIndex = sequence.Count;
+                    startIndex = 0;
                 }
 
+                if (endIndex > sequence.Count - 1)
+                {
+                    endIndex = sequence.Count - 1;
+                }
+                
                 string merged = "";
                 int count = 0;
 
-                for (int i = startIndex; i < endIndex; i++)
+                for (int i = startIndex; i <=endIndex; i++)
                 {
                     merged += sequence[i];
                     count++;
