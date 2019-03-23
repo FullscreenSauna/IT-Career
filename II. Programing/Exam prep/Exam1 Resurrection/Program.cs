@@ -12,23 +12,16 @@ namespace Exam1_Resurrection
         {
             short numberOfPhoenixes = short.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{numberOfPhoenixes} phoenixes:");
-
             for (int i = 1; i <= numberOfPhoenixes; i++)
             {
-                Console.WriteLine($"P{i}");
-
-                int bodyLength = int.Parse(Console.ReadLine());
-                Console.WriteLine($"Body Lenght: {bodyLength}");
+                long bodyLength = long.Parse(Console.ReadLine());
 
                 decimal bodyWidth = decimal.Parse(Console.ReadLine());
-                Console.WriteLine($"Body Width: {bodyWidth}");
 
-                int wingLength = int.Parse(Console.ReadLine());
-                Console.WriteLine($"Length of 1 wing: {wingLength}");
+                long wingLength = long.Parse(Console.ReadLine());
 
                 decimal totalYears = bodyLength * bodyLength * (bodyWidth + 2 * wingLength);
-                Console.WriteLine($"Total years: {bodyLength} ^ 2 * ({bodyWidth} + 2 * {wingLength}) = {totalYears}");
+                Console.WriteLine($"{totalYears}");
             }
         }
     }

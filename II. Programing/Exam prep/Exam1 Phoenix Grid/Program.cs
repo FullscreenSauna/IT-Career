@@ -14,13 +14,35 @@ namespace Exam1_Phoenix_Grid
 
             while (message != "ReadMe")
             {
-                var phrases = message.Split('.').ToArray();
+                var phrases = new List<string>();
 
                 bool isValid = true;
 
-                foreach (var phrase in phrases)
+                string phrase = "";
+
+                for (int i = 0; i < message.Length; i++)
+                {                  
+                    if (phrase.Length != 3)
+                    {
+                        phrase += message[i];
+                    }
+                    else if (message[i] == '.')
+                    {
+                        phrases.Add(phrase);
+                        phrase = "";
+                    }
+                    else if (message[i] != '.')
+                    {
+                        isValid = false;
+                        break;
+                    }
+                }
+
+                phrases.Add(phrase);
+
+                foreach (var item in phrases)
                 {
-                    if (phrase.Contains(' ') || phrase.Contains('_') || phrase.Length != 3)
+                    if (item.Contains(' ') || item.Contains('_'))
                     {
                         isValid = false;
                         break;

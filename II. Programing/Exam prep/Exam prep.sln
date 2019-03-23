@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam1 Phoenix Grid", "Exam1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam1 Phoenix Oscar Romeo November", "Exam1 Phoenix Oscar Romeo November\Exam1 Phoenix Oscar Romeo November.csproj", "{21F3367C-EFB3-4DB3-B924-2638296F9747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam2 Anonymous Downsite", "Exam2 Anonymous Downsite\Exam2 Anonymous Downsite.csproj", "{C1F7A034-8C77-451D-9D27-2619B25DC64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam2 Anonymous Threat", "Exam2 Anonymous Threat\Exam2 Anonymous Threat.csproj", "{C090A1FB-7458-410D-86A8-714E414CC45E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{21F3367C-EFB3-4DB3-B924-2638296F9747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21F3367C-EFB3-4DB3-B924-2638296F9747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21F3367C-EFB3-4DB3-B924-2638296F9747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F7A034-8C77-451D-9D27-2619B25DC64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F7A034-8C77-451D-9D27-2619B25DC64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F7A034-8C77-451D-9D27-2619B25DC64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F7A034-8C77-451D-9D27-2619B25DC64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C090A1FB-7458-410D-86A8-714E414CC45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C090A1FB-7458-410D-86A8-714E414CC45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C090A1FB-7458-410D-86A8-714E414CC45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C090A1FB-7458-410D-86A8-714E414CC45E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -35,7 +35,9 @@ namespace Exam1_Phoenix_Oscar_Romeo_November
                 command = Console.ReadLine().Split(' ', '-', '>').Where(x => x != "").ToArray();
             }
 
-            foreach (var creature in squads.OrderByDescending(x => x.Value.Count))
+            var finalSquads = new Dictionary<string, int>();
+
+            foreach (var creature in squads)
             {
                 int count = creature.Value.Count;
 
@@ -50,7 +52,12 @@ namespace Exam1_Phoenix_Oscar_Romeo_November
                     }
                 }
 
-                Console.WriteLine($"{creature.Key} : {count}");
+                finalSquads.Add(creature.Key, count);
+            }
+
+            foreach (var pair in finalSquads.OrderByDescending(x => x.Value))
+            {
+                Console.WriteLine($"{pair.Key} : {pair.Value}");
             }
         }
     }
