@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference between two date
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raw Data - car", "Raw Data - car\Raw Data - car.csproj", "{F5387E9F-D347-4B38-B7CD-F491E2B56E2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car - drive method", "Car - drive method\Car - drive method.csproj", "{375CF34C-4001-4E03-AB12-F0B8D2D9777D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car dealership", "Car dealership\Car dealership.csproj", "{AE3D30E9-10DB-445B-8FB3-487CC0CFD704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{F5387E9F-D347-4B38-B7CD-F491E2B56E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5387E9F-D347-4B38-B7CD-F491E2B56E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5387E9F-D347-4B38-B7CD-F491E2B56E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375CF34C-4001-4E03-AB12-F0B8D2D9777D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375CF34C-4001-4E03-AB12-F0B8D2D9777D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375CF34C-4001-4E03-AB12-F0B8D2D9777D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375CF34C-4001-4E03-AB12-F0B8D2D9777D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3D30E9-10DB-445B-8FB3-487CC0CFD704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3D30E9-10DB-445B-8FB3-487CC0CFD704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3D30E9-10DB-445B-8FB3-487CC0CFD704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3D30E9-10DB-445B-8FB3-487CC0CFD704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

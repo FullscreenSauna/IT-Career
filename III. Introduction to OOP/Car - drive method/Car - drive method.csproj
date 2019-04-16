@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F5387E9F-D347-4B38-B7CD-F491E2B56E2D}</ProjectGuid>
+    <ProjectGuid>{375CF34C-4001-4E03-AB12-F0B8D2D9777D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Raw_Data___car</RootNamespace>
-    <AssemblyName>Raw Data - car</AssemblyName>
+    <RootNamespace>Car___drive_method</RootNamespace>
+    <AssemblyName>Car - drive method</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,11 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Car.cs" />
-    <Compile Include="Engine.cs" />
-    <Compile Include="Load.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tyre.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Raw_Data___car
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
