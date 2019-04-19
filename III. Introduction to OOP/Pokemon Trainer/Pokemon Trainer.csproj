@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE3D30E9-10DB-445B-8FB3-487CC0CFD704}</ProjectGuid>
+    <ProjectGuid>{7317ED13-16C0-4E6B-895B-20A9851276AB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Car_dealership</RootNamespace>
-    <AssemblyName>Car dealership</AssemblyName>
+    <RootNamespace>Pokemon_Trainer</RootNamespace>
+    <AssemblyName>Pokemon Trainer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Car.cs" />
-    <Compile Include="Engine.cs" />
+    <Compile Include="Pokemon.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Trainer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
