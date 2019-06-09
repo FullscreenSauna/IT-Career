@@ -42,7 +42,7 @@ namespace Implementing_ArrayList
             }
         }
 
-        public void Add(T item)
+        private void Grow()
         {
             if (Count >= capacity)
             {
@@ -57,6 +57,11 @@ namespace Implementing_ArrayList
 
                 items = copy;
             }
+        }
+
+        public void Add(T item)
+        {
+            Grow();
 
             items[Count] = item;
             Count++;
