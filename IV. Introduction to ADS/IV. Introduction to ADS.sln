@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing ArrayList", "I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing LinkedList", "Implementing LinkedList\Implementing LinkedList.csproj", "{A37A466E-CAB7-496B-9321-52EC32D46652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingQueue", "ImplementingQueue\ImplementingQueue.csproj", "{CE115336-E562-449E-9F75-399F444F7A29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A37A466E-CAB7-496B-9321-52EC32D46652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A37A466E-CAB7-496B-9321-52EC32D46652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A37A466E-CAB7-496B-9321-52EC32D46652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE115336-E562-449E-9F75-399F444F7A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE115336-E562-449E-9F75-399F444F7A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE115336-E562-449E-9F75-399F444F7A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE115336-E562-449E-9F75-399F444F7A29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
