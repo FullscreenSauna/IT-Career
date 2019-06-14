@@ -29,21 +29,6 @@ namespace ImplementingQueue
         public Node<T> Head { get; protected set; }
         public Node<T> Tail { get; protected set; }
 
-        public T this[int index]
-        {
-            get
-            {
-                ValidateQueue();
-                return this[index];
-            }
-
-            set
-            {
-                ValidateQueue();
-                this[index] = value;
-            }
-        }
-
         public MyQueue()
         {
             Head = null;
