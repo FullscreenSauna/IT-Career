@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingQueue", "Implem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Stack", "Implementing Stack\Implementing Stack.csproj", "{77646E76-CB40-4B34-8686-A455E4B1D3FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing DoublyLinkedList", "Implementing DoublyLinkedList\Implementing DoublyLinkedList.csproj", "{4554F66D-3ED5-47CD-8289-B14D9F9CBC43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{77646E76-CB40-4B34-8686-A455E4B1D3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77646E76-CB40-4B34-8686-A455E4B1D3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77646E76-CB40-4B34-8686-A455E4B1D3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4554F66D-3ED5-47CD-8289-B14D9F9CBC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4554F66D-3ED5-47CD-8289-B14D9F9CBC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4554F66D-3ED5-47CD-8289-B14D9F9CBC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4554F66D-3ED5-47CD-8289-B14D9F9CBC43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
