@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing DoublyLinkedLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice Game", "Dice Game\Dice Game.csproj", "{F4E7ED6C-A858-4862-906E-49B7034C0363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam - Parking", "Exam - Parking\Exam - Parking.csproj", "{CE08A5DC-733A-478F-9285-EE62B0C5C29A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F4E7ED6C-A858-4862-906E-49B7034C0363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E7ED6C-A858-4862-906E-49B7034C0363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E7ED6C-A858-4862-906E-49B7034C0363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE08A5DC-733A-478F-9285-EE62B0C5C29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE08A5DC-733A-478F-9285-EE62B0C5C29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE08A5DC-733A-478F-9285-EE62B0C5C29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE08A5DC-733A-478F-9285-EE62B0C5C29A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
