@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workers", "Workers\Workers.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom", "AnimalKingdom\AnimalKingdom.csproj", "{7EBBAFF5-1663-435B-89BE-D65CD1E4A048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7EBBAFF5-1663-435B-89BE-D65CD1E4A048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EBBAFF5-1663-435B-89BE-D65CD1E4A048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EBBAFF5-1663-435B-89BE-D65CD1E4A048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
