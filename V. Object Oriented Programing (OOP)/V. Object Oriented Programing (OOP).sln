@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalKingdom", "AnimalKing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal Kingdom 2", "Animal Kingdom 2\Animal Kingdom 2.csproj", "{0C7F95FB-2966-47AB-A251-23FDEA38D2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{14A9D12F-27D5-4A3F-BB7A-75064D4C01CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE3F131-BF94-456E-9F08-AC86A11C0BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7F95FB-2966-47AB-A251-23FDEA38D2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7F95FB-2966-47AB-A251-23FDEA38D2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7F95FB-2966-47AB-A251-23FDEA38D2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7F95FB-2966-47AB-A251-23FDEA38D2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A9D12F-27D5-4A3F-BB7A-75064D4C01CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A9D12F-27D5-4A3F-BB7A-75064D4C01CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A9D12F-27D5-4A3F-BB7A-75064D4C01CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A9D12F-27D5-4A3F-BB7A-75064D4C01CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
