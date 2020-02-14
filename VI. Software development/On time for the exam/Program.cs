@@ -8,7 +8,7 @@ namespace On_time_for_the_exam
         static void Main(string[] args)
         {
             Controller controller = new Controller();
-            Console.Write($"{controller.CalculateTardiness()}");
+            controller.CalculateTardiness();
         }
     }
 }

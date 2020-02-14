@@ -17,9 +17,9 @@ namespace On_time_for_the_exam.Controllers
         public TimeModel Time { get; set; }
         public View View { get; set; }
 
-        public string CalculateTardiness()
+        public void CalculateTardiness()
         {
-            return this.View.CalculateTardiness();
+             this.View.CalculateTardiness();
         }
     }
 }

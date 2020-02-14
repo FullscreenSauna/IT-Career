@@ -28,9 +28,9 @@ namespace On_time_for_the_exam.Views
             this.Time = new TimeModel(examHour, examMinute, arrivalHour, arrivalMinute);
         }
 
-        public string CalculateTardiness()
+        public void CalculateTardiness()
         {
-           return this.Time.CalculateTardiness();
+            Console.Write(this.Time.CalculateTardiness()); 
         }
     }
 }
