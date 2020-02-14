@@ -8,7 +8,7 @@ namespace Transit_price
         static void Main(string[] args)
         {
             Controller controller = new Controller();
-            Console.Write($"{controller.GetPrice():f2}");
+            controller.GetPrice();
         }
     }
 }

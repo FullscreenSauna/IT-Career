@@ -24,9 +24,9 @@ namespace Transit_price.Views
             this.Model = new Model(kilometers, time);
         }
 
-        public decimal GetPrice()
+        public void GetPrice()
         {
-            return Model.GetPrice();
+            Console.Write(Model.GetPrice()); 
         }
     }
 }

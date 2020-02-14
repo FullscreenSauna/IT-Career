@@ -17,9 +17,9 @@ namespace Transit_price.Controllers
             this.Model = View.Model;
         }
 
-        public decimal GetPrice()
+        public void GetPrice()
         {
-            return View.GetPrice();
+            View.GetPrice();
         }
     }
 }
