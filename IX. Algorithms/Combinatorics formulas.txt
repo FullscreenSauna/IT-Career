@@ -1,0 +1,5 @@
+Permutation = n!
+
+Variations = n! / (n - k)!
+
+Combinations = n! / k!(n - k)! /// Variations / k!
